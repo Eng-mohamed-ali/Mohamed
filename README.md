@@ -7,6 +7,12 @@
 
 - 🔭 I’m currently working on [E-commerce](https://coffeetime2025.netlify.app/)
 
+- 🌱 I’m currently learning **react.js**
+
+- 💬 Ask me about **html, css , javacript**
+
+- 📫 How to reach me **mohacoder9168@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
